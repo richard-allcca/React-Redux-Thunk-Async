@@ -13,6 +13,8 @@
 - Utilizamos Thunk Async Middleware
 - This project simulates a comment box for a social network with reactions to comments like facebook
 
+ <img width="550px" src="./public/Captura%20de%20pantalla%20(59).png">
+
 ---
 
 ### 📚 Redux References
