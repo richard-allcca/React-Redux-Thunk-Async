@@ -6,7 +6,7 @@
 
 html {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  background: #333;
+  background: hsl(209, 80%, 50%);
   color: whitesmoke;
 }
 
@@ -22,6 +22,8 @@ button,
 select {
   font: inherit;
   margin-bottom: 1em;
+  border: none;
+    border-radius: 5px;
 }
 
 main {
