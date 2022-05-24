@@ -1,4 +1,4 @@
-# "React Redux Toolkit for Beginners"
+# "React Redux Toolkit"
 
 ---
 
