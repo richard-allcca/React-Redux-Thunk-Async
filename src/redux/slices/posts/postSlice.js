@@ -46,7 +46,7 @@ const postsSlice = createSlice({
         const loadedPosts = action.payload.map((post) => {
           post.date = sub(new Date(), { minutes: min++ }).toISOString();
           post.reactions = {
-            thumnsUp: 0,
+            thumbsUp: 0,
             wow: 0,
             heart: 0,
             rocket: 0,
