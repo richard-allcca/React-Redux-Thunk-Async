@@ -11,6 +11,8 @@ export const fetchUsers = createAsyncThunk('users/fetchUsers', async () => {
   return response.data;
 })
 
+// ======== SLICE =============
+
 const usersSlice = createSlice({
   name: 'users',
   initialState,
